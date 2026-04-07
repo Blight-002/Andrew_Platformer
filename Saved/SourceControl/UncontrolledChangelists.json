@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealProjects/Andrew_Platformer/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/UnrealProjects/Andrew_Platformer/Content/_Platformer/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/UnrealProjects/Andrew_Platformer/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/UnrealProjects/Andrew_Platformer/Content/_Platformer/Blueprints/BP_Platform_stationary.uasset",
+				"C:/UnrealProjects/Andrew_Platformer/Content/_Platformer/Blueprints/BP_Platform_Traveling.uasset",
+				"C:/UnrealProjects/Andrew_Platformer/Content/_Platformer/Blueprints/BP_Platform_Vanishing.uasset",
+				"C:/UnrealProjects/Andrew_Platformer/Content/_Platformer/Blueprints/BP_Platform_JumpPad.uasset",
+				"C:/UnrealProjects/Andrew_Platformer/Content/Input/IMC_SideScroller.uasset",
+				"C:/UnrealProjects/Andrew_Platformer/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/UnrealProjects/Andrew_Platformer/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/Q1/5ARC170FTGYKKT8HV40LUK.uasset",
+				"C:/UnrealProjects/Andrew_Platformer/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/3B/9WPKRZKN5LX72TVZRX4JZ5.uasset",
+				"C:/UnrealProjects/Andrew_Platformer/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AD/XP6L984W7B5X5AGT01ZHUV.uasset"
+			]
+		}
+	]
+}
