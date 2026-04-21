@@ -3686,3 +3686,313 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.21-06.10.08:538][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.21-06.10.08:538][122]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2026.04.21-06.10.08:550][122]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealProjects/Andrew_Platformer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.21-06.14.25:618][440]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Platformer/Blueprints/BP_Coin.BP_Coin
+[2026.04.21-06.14.25:618][440]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.21-06.15.39:924][175]LogSlate: Window 'C++ Header Preview' being destroyed
+[2026.04.21-06.15.39:929][175]LogSlate: Window 'C++ Header Preview' being destroyed
+[2026.04.21-06.15.42:516][440]LogContentBrowser: Deferred new asset file creation: BP_Coin_Child
+[2026.04.21-06.15.42:523][440]LogContentBrowser: Creating deferred item: BP_Coin_Child
+[2026.04.21-06.15.42:531][441]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Coin_Child).
+[2026.04.21-06.15.50:906][445]LogContentBrowser: Attempting asset rename: BP_Coin_Child -> BP_BetterCoin
+[2026.04.21-06.15.50:912][445]LogContentBrowser: End creating deferred item BP_Coin_Child
+[2026.04.21-06.15.50:912][445]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.04.21-06.15.56:669][ 84]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin
+[2026.04.21-06.15.56:670][ 84]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.04.21-06.16.26:057][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.21-06.16.26:060][506]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.054
+[2026.04.21-06.16.26:061][506]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Platformer/Blueprints/BP_BetterCoin] ([2] browsable assets)...
+[2026.04.21-06.16.26:066][506]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin]
+[2026.04.21-06.16.26:066][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Platformer/Blueprints/BP_BetterCoin]
+[2026.04.21-06.16.26:069][506]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Platformer/Blueprints/BP_BetterCoin_Auto6
+[2026.04.21-06.16.26:069][506]LogSavePackage: Moving '../../../../../../UnrealProjects/Andrew_Platformer/Saved/BP_BetterCoin_Auto62C0E9CAC4BF6D394AA063084AAD77B30.tmp' to '../../../../../../UnrealProjects/Andrew_Platformer/Saved/Autosaves/Game/_Platformer/Blueprints/BP_BetterCoin_Auto6.uasset'
+[2026.04.21-06.16.26:070][506]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.04.21-06.26.25:945][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.04.21-06.26.25:947][124]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.023
+[2026.04.21-06.26.25:948][124]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Platformer/Blueprints/BP_BetterCoin] ([2] browsable assets)...
+[2026.04.21-06.26.25:948][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Platformer/Blueprints/BP_BetterCoin]
+[2026.04.21-06.26.25:951][124]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Platformer/Blueprints/BP_BetterCoin_Auto7
+[2026.04.21-06.26.25:951][124]LogSavePackage: Moving '../../../../../../UnrealProjects/Andrew_Platformer/Saved/BP_BetterCoin_Auto75C6BACC84E1F49C5346B4DBD5D510974.tmp' to '../../../../../../UnrealProjects/Andrew_Platformer/Saved/Autosaves/Game/_Platformer/Blueprints/BP_BetterCoin_Auto7.uasset'
+[2026.04.21-06.26.25:951][124]LogFileHelpers: Auto-saving content packages took 0.004
+[2026.04.21-06.31.25:061][918]LogEditorTransaction: Undo Delete Child
+[2026.04.21-06.31.25:405][924]LogEditorTransaction: Undo Move Node
+[2026.04.21-06.31.41:621][793]LogScript: Warning: Script Msg: The widget 'WBP_GameHUD_C_0' does not have a World.
+[2026.04.21-06.31.41:621][793]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Engine/Transient.World_10:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2026.04.21-06.32.10:978][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.04.21-06.33.12:073][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.21-06.34.13:169][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.21-06.34.50:736][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.21-06.34.50:793][783]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Platformer/Blueprints/BP_BetterCoin] ([2] browsable assets)...
+[2026.04.21-06.34.50:851][783]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin]
+[2026.04.21-06.34.50:851][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Platformer/Blueprints/BP_BetterCoin]
+[2026.04.21-06.34.50:851][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Platformer/Blueprints/BP_BetterCoin" FILE="../../../../../../UnrealProjects/Andrew_Platformer/Content/_Platformer/Blueprints/BP_BetterCoin.uasset" SILENT=true
+[2026.04.21-06.34.50:855][783]LogSavePackage: Moving output files for package: /Game/_Platformer/Blueprints/BP_BetterCoin
+[2026.04.21-06.34.50:855][783]LogSavePackage: Moving '../../../../../../UnrealProjects/Andrew_Platformer/Saved/BP_BetterCoin13EE1C7F405883F8783E9A8F0E6A4F3F.tmp' to '../../../../../../UnrealProjects/Andrew_Platformer/Content/_Platformer/Blueprints/BP_BetterCoin.uasset'
+[2026.04.21-06.34.50:865][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.608 ms (total: 3.09 sec)
+[2026.04.21-06.34.50:909][783]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.21-06.34.50:909][783]LogContentValidation: Enabled validators:
+[2026.04.21-06.34.50:909][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.21-06.34.50:911][783]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.21-06.34.50:911][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.21-06.34.50:911][783]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.21-06.34.50:911][783]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.21-06.34.50:911][783]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.21-06.34.50:911][783]AssetCheck: /Game/_Platformer/Blueprints/BP_BetterCoin Validating asset
+[2026.04.21-06.34.50:922][783]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealProjects/Andrew_Platformer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.21-06.34.52:045][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.04.21-06.34.57:451][490]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin_C
+[2026.04.21-06.34.57:451][490]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin_C
+[2026.04.21-06.34.57:452][490]LogActorFactory: Actor Factory spawned Blueprint /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin as actor: BP_BetterCoin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_BetterCoin_C_0
+[2026.04.21-06.34.57:452][490]LogActorFactory: Actor Factory spawned Blueprint /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin as actor: BP_BetterCoin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_BetterCoin_C_0
+[2026.04.21-06.34.58:540][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.04.21-06.34.58:544][617]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.04.21-06.34.58:548][617]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin_C
+[2026.04.21-06.34.58:548][617]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin_C
+[2026.04.21-06.34.58:552][617]LogActorFactory: Actor Factory spawned Blueprint /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin as actor: BP_BetterCoin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_BetterCoin_C_UAID_345A60A4244BC8D302_2097204512
+[2026.04.21-06.34.58:552][617]LogActorFactory: Actor Factory spawned Blueprint /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin as actor: BP_BetterCoin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_BetterCoin_C_UAID_345A60A4244BC8D302_2097204512
+[2026.04.21-06.35.02:143][ 30]Cmd: DUPLICATE
+[2026.04.21-06.35.02:143][ 30]Cmd: ACTOR DUPLICATE
+[2026.04.21-06.35.04:742][315]Cmd: DUPLICATE
+[2026.04.21-06.35.04:742][315]Cmd: ACTOR DUPLICATE
+[2026.04.21-06.35.05:943][455]Cmd: DUPLICATE
+[2026.04.21-06.35.05:943][455]Cmd: ACTOR DUPLICATE
+[2026.04.21-06.35.07:935][684]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.21-06.35.07:939][684]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.21-06.35.07:939][684]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.21-06.35.07:940][684]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 656 us (total: 20.239 ms)
+[2026.04.21-06.35.07:943][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.21-06.35.07:964][684]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.21-06.35.07:969][684]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.21-06.35.07:970][684]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 806 us (total: 23.931 ms)
+[2026.04.21-06.35.07:970][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005037s)
+[2026.04.21-06.35.07:970][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.005075s)
+[2026.04.21-06.35.07:988][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.04.21-06.35.07:991][684]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.21-06.35.07:992][684]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.21-06.35.07:992][684]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.21-06.35.07:992][684]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.21-06.35.07:992][684]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.21-06.35.07:994][684]LogWorldPartition: Display: WorldPartition initialize took 1.226 ms (total: 113.037 ms)
+[2026.04.21-06.35.07:994][684]LogPlayLevel: PIE: World Init took: (0.002653s)
+[2026.04.21-06.35.07:994][684]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2026.04.21-06.35.07:994][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.21-06.35.07:994][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.21-06.35.07:994][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.21-06.35.07:994][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.21-06.35.07:994][684]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.21-06.35.07:994][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.21-06.35.07:994][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.21-06.35.07:994][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.21-06.35.07:994][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.21-06.35.07:994][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.21-06.35.07:994][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.21-06.35.07:997][684]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.21-06.35.08:028][684]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek USB Audio)
+[2026.04.21-06.35.08:028][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.21-06.35.08:028][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.21-06.35.08:028][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.21-06.35.08:028][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2026.04.21-06.35.08:028][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2026.04.21-06.35.08:030][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2026.04.21-06.35.08:030][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2026.04.21-06.35.08:030][684]LogInit: FAudioDevice initialized with ID 32.
+[2026.04.21-06.35.08:030][684]LogAudio: Display: Audio Device (ID: 32) registered with world 'Lvl_ThirdPerson'.
+[2026.04.21-06.35.08:030][684]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2026.04.21-06.35.08:034][684]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.21-06.35.08:036][684]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.04.21-16.35.08
+[2026.04.21-06.35.08:036][684]LogWorld: Bringing up level for play took: 0.001800
+[2026.04.21-06.35.08:037][684]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.04.21-06.35.08:041][684]PIE: Server logged in
+[2026.04.21-06.35.08:042][684]PIE: Play in editor total start time 0.103 seconds.
+[2026.04.21-06.35.08:072][685]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.21-06.35.12:535][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-06.35.12:535][213]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.21-06.35.12:535][213]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-06.35.12:535][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-06.35.12:536][213]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.21-06.35.12:539][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.21-06.35.12:543][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-06.35.12:562][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.21-06.35.12:562][213]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2026.04.21-06.35.12:562][213]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=4
+[2026.04.21-06.35.12:565][213]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=2
+[2026.04.21-06.35.12:569][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-06.35.12:571][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.04.21-06.35.12:600][214]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.04.21-06.35.14:270][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.04.21-06.35.22:270][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.21-06.35.22:325][283]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Platformer/Blueprints/BP_BetterCoin] ([2] browsable assets)...
+[2026.04.21-06.35.22:372][283]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Platformer/Blueprints/BP_BetterCoin.BP_BetterCoin]
+[2026.04.21-06.35.22:372][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Platformer/Blueprints/BP_BetterCoin]
+[2026.04.21-06.35.22:372][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Platformer/Blueprints/BP_BetterCoin" FILE="../../../../../../UnrealProjects/Andrew_Platformer/Content/_Platformer/Blueprints/BP_BetterCoin.uasset" SILENT=true
+[2026.04.21-06.35.22:377][283]LogSavePackage: Moving output files for package: /Game/_Platformer/Blueprints/BP_BetterCoin
+[2026.04.21-06.35.22:378][283]LogSavePackage: Moving '../../../../../../UnrealProjects/Andrew_Platformer/Saved/BP_BetterCoinEA30F3774DE78CE55AF438A5487C7CE2.tmp' to '../../../../../../UnrealProjects/Andrew_Platformer/Content/_Platformer/Blueprints/BP_BetterCoin.uasset'
+[2026.04.21-06.35.22:385][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.430 ms (total: 3.21 sec)
+[2026.04.21-06.35.22:426][283]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.21-06.35.22:426][283]LogContentValidation: Enabled validators:
+[2026.04.21-06.35.22:426][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.21-06.35.22:426][283]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.21-06.35.22:426][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.21-06.35.22:426][283]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.21-06.35.22:426][283]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.21-06.35.22:426][283]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.21-06.35.22:426][283]AssetCheck: /Game/_Platformer/Blueprints/BP_BetterCoin Validating asset
+[2026.04.21-06.35.23:329][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.04.21-06.35.25:069][583]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.21-06.35.25:073][583]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.21-06.35.25:073][583]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.21-06.35.25:074][583]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 639 us (total: 20.879 ms)
+[2026.04.21-06.35.25:074][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.21-06.35.25:074][583]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.21-06.35.25:079][583]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.21-06.35.25:079][583]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 818 us (total: 24.749 ms)
+[2026.04.21-06.35.25:079][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005071s)
+[2026.04.21-06.35.25:079][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.005092s)
+[2026.04.21-06.35.25:098][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.04.21-06.35.25:101][583]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.21-06.35.25:102][583]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.21-06.35.25:103][583]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.21-06.35.25:103][583]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.21-06.35.25:103][583]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.21-06.35.25:104][583]LogWorldPartition: Display: WorldPartition initialize took 1.203 ms (total: 114.240 ms)
+[2026.04.21-06.35.25:104][583]LogPlayLevel: PIE: World Init took: (0.002494s)
+[2026.04.21-06.35.25:105][583]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2026.04.21-06.35.25:105][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.21-06.35.25:105][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.21-06.35.25:105][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.21-06.35.25:105][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.21-06.35.25:105][583]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.21-06.35.25:105][583]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.21-06.35.25:105][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.21-06.35.25:105][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.21-06.35.25:105][583]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.21-06.35.25:105][583]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.21-06.35.25:105][583]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.21-06.35.25:106][583]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.21-06.35.25:134][583]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek USB Audio)
+[2026.04.21-06.35.25:134][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.21-06.35.25:134][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.21-06.35.25:134][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.21-06.35.25:134][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2026.04.21-06.35.25:134][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2026.04.21-06.35.25:135][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2026.04.21-06.35.25:135][583]LogInit: FAudioDevice initialized with ID 33.
+[2026.04.21-06.35.25:135][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2026.04.21-06.35.25:135][583]LogAudio: Display: Audio Device (ID: 33) registered with world 'Lvl_ThirdPerson'.
+[2026.04.21-06.35.25:135][583]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2026.04.21-06.35.25:138][583]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.21-06.35.25:139][583]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.04.21-16.35.25
+[2026.04.21-06.35.25:140][583]LogWorld: Bringing up level for play took: 0.001730
+[2026.04.21-06.35.25:142][583]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.04.21-06.35.25:145][583]PIE: Server logged in
+[2026.04.21-06.35.25:147][583]PIE: Play in editor total start time 0.073 seconds.
+[2026.04.21-06.35.25:175][584]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.21-06.35.27:790][895]LogScript: Warning: Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2103399514 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2103399514 is not valid (pending kill or garbage)
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/_Platformer/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:04E8
+[2026.04.21-06.35.27:790][895]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2103399514 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2103399514 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.04.21-06.35.27:790][895]LogScript: Warning: Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2103399514 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2103399514 is not valid (pending kill or garbage)
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/_Platformer/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0433
+[2026.04.21-06.35.27:790][895]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2103399514 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2103399514 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.04.21-06.35.29:115][ 54]LogScript: Warning: Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2104600515 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2104600515 is not valid (pending kill or garbage)
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/_Platformer/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:04E8
+[2026.04.21-06.35.29:115][ 54]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2104600515 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2104600515 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.04.21-06.35.29:115][ 54]LogScript: Warning: Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2104600515 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2104600515 is not valid (pending kill or garbage)
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/_Platformer/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0433
+[2026.04.21-06.35.29:115][ 54]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2104600515 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2104600515 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.04.21-06.35.30:134][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-06.35.30:134][173]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.21-06.35.30:134][173]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-06.35.30:135][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-06.35.30:135][173]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.21-06.35.30:151][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.21-06.35.30:154][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-06.35.30:173][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-06.35.30:173][173]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2026.04.21-06.35.30:173][173]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=4
+[2026.04.21-06.35.30:176][173]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=2
+[2026.04.21-06.35.30:181][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.04.21-06.35.30:287][174]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.04.21-06.36.05:994][382]LogSlate: Window 'Message Log' being destroyed
+[2026.04.21-06.36.05:997][382]LogSlate: Window 'Message Log' being destroyed
+[2026.04.21-06.36.09:285][769]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.21-06.36.09:289][769]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.21-06.36.09:289][769]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.21-06.36.09:290][769]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 659 us (total: 21.539 ms)
+[2026.04.21-06.36.09:290][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.21-06.36.09:324][769]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.21-06.36.09:328][769]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.21-06.36.09:329][769]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 845 us (total: 25.595 ms)
+[2026.04.21-06.36.09:329][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005036s)
+[2026.04.21-06.36.09:329][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.005060s)
+[2026.04.21-06.36.09:348][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.04.21-06.36.09:350][769]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.21-06.36.09:352][769]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.21-06.36.09:352][769]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.21-06.36.09:352][769]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.21-06.36.09:352][769]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.21-06.36.09:353][769]LogWorldPartition: Display: WorldPartition initialize took 1.195 ms (total: 115.436 ms)
+[2026.04.21-06.36.09:353][769]LogPlayLevel: PIE: World Init took: (0.002584s)
+[2026.04.21-06.36.09:353][769]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2026.04.21-06.36.09:353][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.21-06.36.09:353][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.21-06.36.09:353][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.21-06.36.09:353][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.21-06.36.09:353][769]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.21-06.36.09:353][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.21-06.36.09:353][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.21-06.36.09:353][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.21-06.36.09:353][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.21-06.36.09:353][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.21-06.36.09:353][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.21-06.36.09:355][769]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.21-06.36.09:382][769]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek USB Audio)
+[2026.04.21-06.36.09:382][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.21-06.36.09:382][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.21-06.36.09:382][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.21-06.36.09:382][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2026.04.21-06.36.09:382][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2026.04.21-06.36.09:384][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2026.04.21-06.36.09:384][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2026.04.21-06.36.09:384][769]LogInit: FAudioDevice initialized with ID 34.
+[2026.04.21-06.36.09:384][769]LogAudio: Display: Audio Device (ID: 34) registered with world 'Lvl_ThirdPerson'.
+[2026.04.21-06.36.09:384][769]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2026.04.21-06.36.09:387][769]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.21-06.36.09:389][769]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.04.21-16.36.09
+[2026.04.21-06.36.09:389][769]LogWorld: Bringing up level for play took: 0.001748
+[2026.04.21-06.36.09:390][769]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.04.21-06.36.09:394][769]PIE: Server logged in
+[2026.04.21-06.36.09:395][769]PIE: Play in editor total start time 0.106 seconds.
+[2026.04.21-06.36.09:425][770]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.21-06.36.13:300][232]LogScript: Warning: Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2100800513 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2100800513 is not valid (pending kill or garbage)
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/_Platformer/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:04E8
+[2026.04.21-06.36.13:301][232]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2100800513 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2100800513 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.04.21-06.36.13:301][232]LogScript: Warning: Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2100800513 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2100800513 is not valid (pending kill or garbage)
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/_Platformer/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0433
+[2026.04.21-06.36.13:301][232]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_BetterCoin_C_UAID_345A60A4244BC8D302_2100800513 via property K2Node_Event_OtherActor_1, but BP_BetterCoin_C_UAID_345A60A4244BC8D302_2100800513 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.04.21-06.36.19:535][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-06.36.19:535][974]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.21-06.36.19:535][974]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.21-06.36.19:535][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-06.36.19:535][974]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.21-06.36.19:551][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.21-06.36.19:555][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.21-06.36.19:574][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.21-06.36.19:574][974]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.04.21-06.36.19:574][974]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2026.04.21-06.36.19:575][974]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2026.04.21-06.36.19:581][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.04.21-06.36.19:721][975]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.04.21-06.37.05:782][838]LogSlate: Window 'Message Log' being destroyed
+[2026.04.21-06.37.05:787][838]LogSlate: Window 'Message Log' being destroyed
+[2026.04.21-06.37.16:573][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
